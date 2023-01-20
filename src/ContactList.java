@@ -12,6 +12,7 @@ import java.util.Scanner;
  * @version: 2022-2023
  */
 
+
 public class ContactList
 {
     // TODO: Create your array contacts
